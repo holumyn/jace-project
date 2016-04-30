@@ -11,9 +11,9 @@ Note: ReadMe file is on the demo URL and github
 	password:password
 
 	Database Config(.../jace/application/config/database.php)
-	DB Name: jace_db
+	DB Name: jacedb (Create the DB and import the users.sql file)
 	DB Username: root
-	DB Password: ''
+	DB Password: empty
 
 	Github URL: https://github.com/holumyn/jace-project.git
 
