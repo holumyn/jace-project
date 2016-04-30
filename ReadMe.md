@@ -26,7 +26,7 @@ Note: ReadMe file is on the demo URL and github
 
 	Machine must have WAMP,XAMPP or MAMP(details not included) installed
 
-	Extract the zip folder into your www folder(WAMP) or htdocs folder(XAMPP)
+	Extract the zip file into your www folder(WAMP) or htdocs folder(XAMPP)
 
 	##Allowing Code|Igniter to work on XAMPP/WAMP
 	#Removing index.php in url
